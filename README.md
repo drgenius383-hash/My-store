@@ -1,4 +1,4 @@
-# My Brand Store
+# STEVENBABS COLLECTIONS
 
 A Temu-style online store built with **Next.js 14 (App Router)**, **Tailwind CSS** and **Supabase**.
 Customers pay by **manual bank transfer**, upload their receipt, and an admin approves or disapproves the order.
